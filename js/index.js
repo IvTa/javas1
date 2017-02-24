@@ -1,4 +1,3 @@
- var  a = "Корені квадратного рівняння"
 function make() {
    var a = parseFloat(frm.a.value);
    var b = parseFloat(frm.b.value);
@@ -20,5 +19,4 @@ function make() {
    x2 = (-b + Math.sqrt(d))/(2*a);
     alert('x1 = ' + x1);
  alert('x2 = ' + x2);
-var  a = "Корені квадратного рівняння"
 }
